@@ -1,6 +1,5 @@
 // https://leetcode.cn/problems/find-right-interval/description/
 #include <algorithm>
-#include <functional>
 #include <utility>
 #include <vector>
 

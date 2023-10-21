@@ -1,5 +1,4 @@
 // problem url: https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan-v2&envId=binary-search
-
 #include <vector>
 
 using std::vector;
